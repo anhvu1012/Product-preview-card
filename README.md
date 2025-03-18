@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-using-css-grid-YMDySi056w)
+- Live Site URL: [GitHub](https://anhvu1012.github.io/Product-preview-card/)
 
 ## My process
 
